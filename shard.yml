@@ -1,0 +1,9 @@
+name: tucson
+version: 0.1.0
+
+authors:
+  - Cooper Gillan <cooper.gillan@gmail.com>
+
+crystal: 0.36.0
+
+license: MIT
