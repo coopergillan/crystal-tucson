@@ -1,4 +1,3 @@
-# vim: filetype=ruby
 require "./spec_helper"
 require "../src/tucson"
 
