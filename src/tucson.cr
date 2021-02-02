@@ -1,5 +1,3 @@
-# vim: filetype=ruby
-
 module Tucson
   VERSION = "0.1.0"
 
